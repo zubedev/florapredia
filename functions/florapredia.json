@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "florapredia",
+  "private_key_id": "6b86548dda44870ef31385629dc8e0b4ea5f2f0a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDMCIX/Paay9XA/\nCQYZSyD2YQuU1soPlQEQOBzvTCmQ2j70SjUNW0CEcQH6VdIeSnr90MAXbiqQYRVO\nFLvXREcRPVW9VILKb9O1xxlIyXAKe6I1LhdbPA1kjyNb0otEmKPfxoZnQ+hlsQ7H\nUEOMjokaH/aSVVWZDhram4GfU8rd0fb3fLPdUcAZo+aDZIkfH3udg1vc9EcmwWfa\nPKv9iOnoFnw3epsSuvWoOQD47YvuVBrbrdqo1otUrnU6qHfdSNhxFx+fPCTT07uF\nAjHOe6KzjYK/ybT98h4/hoYLLsDiMny2AGY4I7uLouEqM9XQGpsy+z1sywilIHsZ\n0EbBZEVXAgMBAAECggEAW+7NPbQwO/uWP3jX7CarbAhPGRnswrefWokGFJbLNc74\nxcb3/5QpzmNDAmKQAgEKSPo5y3TirdpoqJ10A+tqYCy0SNJe+ksH6CSVUnQdTUPm\n0zJ46K121WQfiPylrtteH3LK1ZXGDagJYipavWbuBLz5M3dK0eOGmxCth7ZQNsDZ\n5PnG3ytDl4jAxKH2a+yiFaidLC0aRf1W81eKJyveqWCaieAUwnoZYQohkpd+q+aL\nZ9CefzjvTdw9Dp5EeDQIHCctjCWRfbvLftd+SF+ioDfRByc5UhBJl+T+tU3iedWu\nn3FDYph+iOZvrSRJgdA4zQZtJ6UccU0x50rr6/itNQKBgQDv6s5TdrWEbmImv5Qo\n7ZylzNO6iXZKW2dAu0nbReZi/jBVqSlEH8qR/u3BhKEUEcynN1epqEOsAKgTxOJs\nPlGyM96OG6tSQYP1jQOhd3yI//vQ8uCtpvKVKSS+EifgxEfZRv+b2MVXblOlfqfz\nMnO1N9TlQBe8Yj3y1HUM37bqPQKBgQDZterXhq5hRzOUsUbqN9+1laRf40UhXW7j\n6jjPrfSVVlUQ+m1aclBa9vzzPHn9CArzBWkyNoX6AEd2OoU++C5f2W9Th6yIYr/W\n3kta+iUKpOay/iL957fZBErurJsv9qkdwZ0iVRr1zHFLSYOrdfzo6L0SVG3xWNxB\nA4TWPNIrIwKBgEX/ev1NCD7AOfDWOnMKiIazUR7+lj2xl1mCi1TnewVs5ktH1Jtk\nrySTfWjVum1xmAU9l10Pk9buRhumeO1d7VYR3iAWIJEaPlb5MpL8mqAaF61p/3WK\n3QH6BBdUkr/4ZIIXPeKJh2Iv9UW2w2eoU6wOwxWz8njrLOnZZOFBsEt9AoGBAJrt\n2LeTwpi7gLt6BMs9A9hHK3iJVXLO+ND8p30zf/CeRV8Vt6g73W8+gPffu7gTdydG\nXHw9TM6CUFiUgKo1F1tictTwohlUnMyd2OZfSOjwPLR4IhKqSa0IXwLGlpFlaSgh\n1l7OTadJ2/4FzMvB5T8iERrwNmUgJW2mwWtsUOwdAoGAUYhjLqueaj1Wnomz/Zyw\neLVwt0ZSbmyPhMB3WV9O9CzG0BdSzDIB7WCH+dcs8yPEsvS3e2dPTCa3hTO4Qqws\ny0RXKu2K9Z0QmfHx0jNJixeMXPKqDqRuimt+fmzMNrl2zZy+9yI+zjfu2hQ1qvdl\nK0Z1Gd6f0KbinSEJ8TIcTjU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-3tvpt@florapredia.iam.gserviceaccount.com",
+  "client_id": "105623512083419527940",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-3tvpt%40florapredia.iam.gserviceaccount.com"
+}
